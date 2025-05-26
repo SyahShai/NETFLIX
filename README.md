@@ -16,25 +16,47 @@ The primary objective of this project is to explore how different types of conte
 
 # Attribue
 Here is a brief description of each attribute:
+
 ●	show_id: A unique identifier for each title in the dataset.
+
 ●	type: Indicates whether the title is a "Movie" or a "TV Show".
+
 ●	title: The name of the movie or TV show.
+
 ●	director: The director(s) of the movie or TV show. This field can have multiple directors separated by commas, and it may be blank if the information is not available.
+
 ●	cast: The main actors and actresses in the movie or TV show. This field can also have multiple names separated by commas.
+
 ●	country: The country or countries where the movie or TV show was produced. This field can contain multiple countries separated by commas.
+
 ●	date_added: The date when the movie or TV show was added to Netflix. This is useful for analyzing the trend of content addition over time.
+
 ●	release_year: The year in which the movie or TV show was originally released.
+
 ●	rating: The age rating assigned to the movie or TV show (e.g., TV-MA, TV-14, R, PG-13). This helps in understanding the target audience for each title.
+
 ●	duration: The duration of the movie in minutes or the number of seasons for TV shows.
+
 ●	listed_in: The genres or categories that the movie or TV show belongs to (e.g., Dramas, Comedies, Action & Adventure). This field can contain multiple genres separated by commas.
+
 ●	description: A brief summary or description of the movie or TV show.
+
 ●	review : Sentiment analysis score of the review, indicating whether the review is positive, negative, or neutral.
+
 
 # Analysis
 The primary purpose of this dataset is to provide insights into the types of content available on Netflix, the diversity of genres, the origin of the content, and the overall trends in the Netflix catalog. It can be used for various analyses, such as:
+
 ●	Content Analysis: Understanding the distribution of movies and TV shows, the popularity of different genres, and the representation of various countries.
+
 ●	Trend Analysis: Analyzing how the addition of new content to Netflix has evolved over the years.
+
 ●	Audience Analysis: Examining the ratings to understand the target demographics for Netflix content.
+
 ●	Contributor Analysis: Identifying the most prolific directors and actors in the Netflix catalog
+
+# Dashboard 
+![Dashboard](https://github.com/user-attachments/assets/ccffee0e-4455-41ab-85d9-234da618a266)
+
 
 
